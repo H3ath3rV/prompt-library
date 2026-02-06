@@ -42,7 +42,7 @@ You can open the data folder from the Settings page.
 - Export: Settings → Export JSON
 - Import: Settings → Import JSON (merges by `id`, creates if missing)
 
-The JSON format matches the internal prompt structure, including tags.
+The JSON format matches the internal prompt structure.
 
 ## Signed/Notarized Build Guidance (manual)
 1. Create an Apple Developer ID certificate and install it in Keychain Access.
