@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# build outputs
+.next/
+dist/
+
+# tauri artifacts
+src-tauri/target/
+
+# misc
+.DS_Store
+*.log
+.env
+.env.local

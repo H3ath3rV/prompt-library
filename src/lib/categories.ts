@@ -1,0 +1,22 @@
+export const DOMAIN_CATEGORIES = [
+  "Business",
+  "Marketing",
+  "Sales",
+  "SEO",
+  "Writing",
+  "Productivity",
+  "Education",
+  "E-Commerce",
+  "Finance",
+  "Solopreneurs",
+  "Customer Support",
+  "HR & Recruiting",
+  "Product Management",
+  "Engineering",
+  "Design",
+  "Photography",
+  "Video",
+  "Social Media",
+  "Research",
+  "Legal"
+];

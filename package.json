@@ -1,0 +1,28 @@
+{
+  "name": "prompt-library",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tauri dev",
+    "dev:web": "next dev",
+    "build:web": "node ./scripts/build-web.mjs",
+    "build": "tauri build",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2.0.0",
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.0.0",
+    "@types/node": "25.2.0",
+    "@types/react": "19.2.10",
+    "autoprefixer": "10.4.19",
+    "postcss": "8.4.38",
+    "tailwindcss": "3.4.4",
+    "typescript": "5.5.4"
+  }
+}
