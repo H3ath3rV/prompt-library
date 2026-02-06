@@ -1,5 +1,9 @@
 # Prompt Library
 
+
+## Screenshot
+![Prompt Library dashboard](images/screenshot.png)
+
 Prompt Library is a fast, offline-first macOS desktop app for capturing, organizing, and reusing prompts. It runs fully locally with a SQLite database stored in your macOS app data directory.
 
 ## Tech
